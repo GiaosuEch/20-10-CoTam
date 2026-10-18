@@ -1,0 +1,11 @@
+# Backups and temporary test directories
+*.bak
+scratch/
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+__pycache__/
+*.pyc
